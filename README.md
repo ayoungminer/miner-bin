@@ -1,0 +1,2 @@
+# miner-bin
+bin files
