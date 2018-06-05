@@ -2,14 +2,18 @@
 bin files
 
 
--NVIDIAccminerenemy
+-NVIDIA-ccminerenemy
 
 V1.03
 
--NVIDIAccminerenemyx16s
+-NVIDIA-ccminerenemyx16s
 
 v1.04a
 
--NVIDIAzenemy
+-NVIDIA-zenemy
 
 v1.11 v3 Public
+
+-NVIDIA-zenemy-x64
+
+v1.11 v4 x64
