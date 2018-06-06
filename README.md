@@ -2,6 +2,10 @@
 bin files
 
 
+-NVIDIA-ccminercool
+
+v1.1
+
 -NVIDIA-ccminerenemy
 
 V1.03
