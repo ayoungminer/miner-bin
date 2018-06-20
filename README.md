@@ -4,7 +4,7 @@ bin files
 
 -NVIDIA-ccminercool
 
-v1.3
+v1.4
 
 -NVIDIA-ccminerenemy
 
