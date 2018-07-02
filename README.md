@@ -16,7 +16,7 @@ v1.04a
 
 -NVIDIA-zenemy
 
-v1.12 test1 Private
+v1.12 Test2 Private
 
 -NVIDIA-zenemy-x64
 
