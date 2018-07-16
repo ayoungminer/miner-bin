@@ -2,22 +2,22 @@
 bin files
 
 
--NVIDIA-ccminercool
+-ccminercool
 
 v1.5
 
--NVIDIA-ccminerenemy
+-trex
 
-V1.03
+v0.4c
 
--NVIDIA-ccminerenemyx16s
+-ccminerenemyx16s
 
 v1.04a
 
--NVIDIA-zenemy
+-zenemy
 
 v1.12a v2 Public
 
--NVIDIA-zenemy-x64
+-zenemy-x64
 
 v1.11 v4 x64
