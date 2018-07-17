@@ -6,6 +6,10 @@ bin files
 
 v1.5
 
+-EWBFv2
+
+v0.4
+
 -trex
 
 v0.4c
