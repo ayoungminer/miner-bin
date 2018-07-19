@@ -10,10 +10,6 @@ v1.5
 
 v0.4
 
--trex
-
-v0.4c
-
 -ccminerenemyx16s
 
 v1.04a
