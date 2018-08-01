@@ -8,7 +8,7 @@ v1.5
 
 -EWBFv2
 
-v0.4
+v0.5
 
 -ccminerenemyx16s
 
