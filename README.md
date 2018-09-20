@@ -12,4 +12,4 @@ v0.5
 
 -zenemy
 
-v1.19 Public
+v1.20 32-bit Public
