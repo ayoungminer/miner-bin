@@ -12,4 +12,4 @@ v0.5
 
 -zenemy
 
-v1.21a 32-bit Public
+v1.22 CUDA 10 32-bit Public
