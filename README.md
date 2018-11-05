@@ -4,4 +4,4 @@ bin files
 
 -zenemy
 
-v1.22a CUDA 10 32-bit Public
+v1.23 CUDA 10 Public
